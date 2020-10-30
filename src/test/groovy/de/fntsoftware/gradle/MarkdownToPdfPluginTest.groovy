@@ -1,6 +1,6 @@
 package de.fntsoftware.gradle
 
-import com.vladsch.flexmark.Extension
+import com.vladsch.flexmark.util.misc.Extension
 import com.vladsch.flexmark.ext.tables.TablesExtension
 import com.vladsch.flexmark.parser.Parser
 import org.gradle.api.Project
